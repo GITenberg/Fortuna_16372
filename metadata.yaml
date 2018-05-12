@@ -1,0 +1,41 @@
+_repo: Fortuna_16372
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Escrich, Enrique
+    aliases:
+    - Escrich, Enrique Perez
+    - Escrich, Enrique Pérez
+    birthdate: 1829
+    deathdate: 1897
+    gutenberg_agent_id: '36049'
+    url: http://www.gutenberg.org/2009/agents/36049
+  editors:
+  - agent_name: Hills, E. C. (Elijah Clarence)
+    alias: Hills, Elijah Clarence
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '6455'
+    url: http://www.gutenberg.org/2009/agents/6455
+  - agent_name: Reinhardt, Louise
+    alias: Reinhardt, Luisa
+    birthdate: 1866
+    gutenberg_agent_id: '36385'
+    url: http://www.gutenberg.org/2009/agents/36385
+description: ''
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16372'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Dogs -- Fiction'
+title: Fortuna
+url: http://www.gutenberg.org/ebooks/16372
